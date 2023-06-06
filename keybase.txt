@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/denniskehrig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.denniskehrig.de
+  * I am denniskehrig (https://keybase.io/denniskehrig) on keybase.
+  * I have a public key with fingerprint 63E3 7B31 DAB6 9EE4 8C65  47E7 DCC9 01BE 84DB DA4A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019a78fca5257caa4e3c8fc2cc547cad739737f7a5d62e1e51b6965c54a47bef730a",
+      "fingerprint": "63e37b31dab69ee48c6547e7dcc901be84dbda4a",
+      "host": "keybase.io",
+      "key_id": "dcc901be84dbda4a",
+      "kid": "01019a78fca5257caa4e3c8fc2cc547cad739737f7a5d62e1e51b6965c54a47bef730a",
+      "uid": "9c16336c6ddb93f54d6fd44419dd3c00",
+      "username": "denniskehrig"
+    },
+    "merkle_root": {
+      "ctime": 1686019562,
+      "hash_meta": "36b09d3b257f3f37b4c3b2e8e4083572f4fac02479904e40781b08a410897d91",
+      "seqno": 24535282
+    },
+    "revoke": {
+      "sig_ids": [
+        "2b9fe4f10372f6803511baa074663c007bd98e696029c73a3778ad6f800bb4100f"
+      ]
+    },
+    "service": {
+      "hostname": "www.denniskehrig.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1686019565,
+  "expire_in": 157680000,
+  "prev": "1a67ccd186d1b357965ba8403758143e56a5d79c3f589709e34d1e5ce5af4638",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPPAnicrZN/TFVlGMcvKBE4Cyo3g5J5HOIlYuec9/y8BkzLFGWWSj/U7u7ec973
+cE8X7rmec7n8GiLK0AELCH+VIOoqychRa65kKtxgpS7/wcQlMBRdWiKZKUYMew+z
+1Vp/dv45e97zPN/n+3ye9/TMnuGIjRg4HXGy6tIPKyPOhisLHWhzy2gZpRiohHKV
+UT48/cL5CFtBj09HlIuiGZqRoShpKuRZXlQh5DBQSciqKs+RGIlAFoGoiZBHAosZ
+zDOKIAs8+Qo5UcGaCGhIpVGa7s/DZsDU/UEiKwAMRAUwCJJkjDlJFYgaFpGqyjSj
+YIlDCoKcXeg1LLuCmFOghdN1g5yRwDNt7z/y/2ffhdNyssoIAAiqgJAiA43nkKAh
+juMYGSGg0rSdaGHTDwuw7Qr7/brlw15Tz6PK06gCbPryscc0jKANWA3qdhojSAIx
+yQssGRJaXk8BDkJSDQSFlhFQiG0NaAQTp5IAS5ijJcCLrMZpUKVZTpRlmiOHosQo
+tAQ5hpZkEckM8WLhTX6DcrEcD3hWYokFE4cMH7a7W3oeYWdRro0Uq8ga5jSGBkRV
+kGjAM4wCIS1ygmBPJSpIljChQrOyKgIIRFGCZHKJphWF9KM1yl1udzNDujotbi/r
+IYSioqL0f4IgAXEWMI2goRr5JMEbDAYsl80nWBKYrsCK56GWR9H9iNwYUhHCpqUb
+fsKLZP4bHZ9G4eKAbmKPbmfwIpmCPHYfHCKSDBREVUWMJCBGIfDIghUocWRgXmI4
+gHmBrF+UVbJSAo+WMeAQuQoq5qHGCUD6m6VEbMI8Ikn4+WGw0MRUebj7rZmOiFjH
+I1GR9p/kiI2J++v/ismOczQuWbX7DfWEJ/nqyfWBJ/zW2OcTmy4vyMm69Hy11Vzs
+vDr+XPLEcIfQXSn9tmjh64MpBeb6S3Xr9l87OPbu6PFF8zOr79z33B9zflw9FKg6
+cf7wrahlWTdi59GT8ZGPTtxp99Yf62NWjcy80tP6kTtxcc3NwQx39HlPc1QEuvkg
+eoM3dmp75KHfcz9T6o5fbrjw4awLOTPGe1Jz+o2Kmkpvx9r+2qzkA8ODa/F7wOs6
+uyJ84eDQVKgh9Ze9Hbe62u9KQ7O65t3burPxpM+kcnuH6/euSLrxola8x2P29VNJ
+yagpvOVe6fVzrenLur460/BpjLNlzpGxr91+tzOh+Js6Z5LeUxm81tH0cltr7enR
+wrZ9UOwsSjESs58aXlu7JvPHtu+Lp16NNwdKv+iOn2QzNh6bGugacSrNAx3rdnl7
+Z3dGHRl9JbdkfO62rS9Ntor7w0cSFx7orZmoXjP0ZmafeqWy1HdOAOMXX4g6g2of
+tBpxTparOFWhUU2p4dXqfnNzdDh8PLJxR9XylNF9/dl3Y6Xt7U8+u/zql49V7M75
+dVtCl5WRcmjW4j2WOZH7ftnR1i3vON6es+GTYPQfARhi2nc1lWeccneuPHoi6rvB
+oiWPp7Wst7SDO+cn1I9G3l5QAypLUzfU/fTB6ttLLxpJc4aXOl5LPTzXd+ho846R
+n5/JfHo7e/3bXBfq+RNb2wrb
+=zoGe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/denniskehrig
+
+==================================================================
